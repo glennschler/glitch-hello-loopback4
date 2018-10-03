@@ -69,7 +69,14 @@ pnpm install --save-dev @loopback/cli
 4. The project comes with a "ping" route to test the project. Let's try it out by running the projects.
 
 - Wait for Glitch project to finish rebuilding
-- In a browser, visit http://hello-loopback4.glitch.me:3000/ping
+
+- In a browser, visit this Glitch remix
+  - [https://hello-loopback4-test01.glitch.me/](https://hello-loopback4-test01.glitch.me/)
+- and with curl test the PING api
+    ```
+    curl -X GET "https://hello-loopback4-test01.glitch.me/ping" \
+    -H  "accept: application/json"
+    ```
 
 
 ### Continue...

@@ -1,8 +1,10 @@
-# Hello Loopback4
+# Hello Loopback4 on Glitch
 ====================================================
+- [https://glitch.com/~hello-loopback4](https://glitch.com/~hello-loopback4)
+
 - LoopBack 4, the next step in the evolution of LoopBack! A completely redesigned modular framework especially for API developers. 
 
-- Follow the Loopback 4 tutorial using Glitch!
+- Follow the Loopback 4 tutorial using [this Glitch project!](https://glitch.com/~hello-loopback4)
 
 - Following instructions at loopback v4 page [http://v4.loopback.io/getting-started.html](http://v4.loopback.io/getting-started.html)
 

@@ -1,0 +1,27 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "hello-loopback4",
+  "version": "0.0.1",
+  "description": "A simple Node app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-loopback4"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "loopback"
+  ],
+  "devDependencies": {
+    "@loopback/cli": "^0.27.0"
+  }
+}
